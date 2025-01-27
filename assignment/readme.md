@@ -1,4 +1,4 @@
-# FyndMe Deep Learning Assignment
+
 
 # Multimodal MNIST Matching
 
